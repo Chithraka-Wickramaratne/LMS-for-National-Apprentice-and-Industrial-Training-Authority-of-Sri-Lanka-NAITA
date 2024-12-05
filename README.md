@@ -40,22 +40,22 @@ To run the project locally, follow these steps:
 ```bash
 git clone https://github.com/Chithraka-Wickramaratne/LMS-for-National-Apprentice-and-Industrial-Training-Authority-of-Sri-Lanka-NAITA
 
-###2️⃣ Install Frontend Dependencies
+2️⃣ Install Frontend Dependencies
 bash
 Copy code
 cd frontend
 npm install
 npm start
 
-###3️⃣ Run the Backend
+3️⃣ Run the Backend
 bash
 Copy code
 mvn spring-boot:run
 
-###4️⃣ Configure Firestore
+4️⃣ Configure Firestore
 Set up Google Firestore in the backend for data storage.
 
-###💡 Key Highlights
+💡 Key Highlights
 Role-Based Access Control: Ensures only authorized users access specific features.
 Seamless Course Management: Enables admins and lecturers to manage enrollments and materials efficiently.
 Real-Time Updates: Changes made by the admin or lecturer are instantly reflected to students.
